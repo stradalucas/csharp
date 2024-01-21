@@ -1,4 +1,4 @@
-## C# 6 CARACTERUSTUCAS
+## C# 6 MAIN FEATURES
 
 ### 1. String Interpolation
 ```
